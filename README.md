@@ -21,6 +21,8 @@ I'm currently pursuing an internship for Spring/Summer 2021
   <a href="https://github.com/mh15" target="_blank">
     <img
       src="https://github-readme-stats.vercel.app/api?username=mh15&hide=stars">
+  </a>
+  <a href="https://github.com/search?o=desc&q=user%3Ayurkth&s=stars&type=Repositories">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh15&layout=compact">
   </a>
