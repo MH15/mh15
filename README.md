@@ -1,4 +1,12 @@
-[![Stats](https://github-readme-stats.vercel.app/api?username=mh15)](https://github.com/mh15)
+
+<div align="center">
+  <a href="https://github.com/mh15" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=mh15">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh15&layout=compact">
+  </a>
+</div>
 
 
 ### Hi there 👋
