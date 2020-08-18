@@ -2,7 +2,7 @@
   <h3>Hi there 👋</h3>
   <p>I'm currently pursuing an internship for Spring/Summer 2021</p>
 </div>
-- :school: I'm studying Computer Science at (OSU)[https://osu.edu]
+- :school: I'm studying Computer Science at [OSU](https://osu.edu)
 - :scroll: I specialize in Computer Graphics and visual design
 - :laptop: Looking for an inte
 - 👯 I’m looking to collaborate on ...
