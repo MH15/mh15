@@ -1,7 +1,8 @@
-<div align="center">
-  <h3>Hi there 👋</h3>
-  <p>I'm currently pursuing an internship for Spring/Summer 2021</p>
-</div>
+
+### Hi there 👋
+
+I'm currently pursuing an internship for Spring/Summer 2021
+
 
 - :school: I'm studying Computer Science at [OSU](https://osu.edu)
 - :scroll: I specialize in Computer Graphics and visual design
@@ -13,10 +14,10 @@
 
 
 
-<div align="center">
+<div align="left">
   <h3>Stats</h3>
 </div>
-<div align="center">
+<div align="left">
   <a href="https://github.com/mh15" target="_blank">
     <img
       src="https://github-readme-stats.vercel.app/api?username=mh15&hide=stars">
