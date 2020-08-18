@@ -5,10 +5,7 @@
 
 - :school: I'm studying Computer Science at [OSU](https://osu.edu)
 - :scroll: I specialize in Computer Graphics and visual design
-- :laptop: Looking for an inte
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about photography!
 - 📫 How to reach me: [@matthallosu](https://twitter.com/matthallosu) on Twitter
 - 😄 Pronouns: he/him
 
