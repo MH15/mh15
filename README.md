@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm currently pursuing an internship for Spring/Summer 2021
+<!-- I'm currently pursuing an internship for Spring/Summer 2021 -->
 
 
 - :school: I'm studying Computer Science at [OSU](https://osu.edu)
