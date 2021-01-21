@@ -10,7 +10,7 @@
 - 📫 How to reach me: [@matthallosu](https://twitter.com/matthallosu) on Twitter
 - 😄 Pronouns: he/him
 
-<!--- ⚡ Fun fact: ...-->
+<!--- ⚡ Fun fact: ...
 
 
 
@@ -27,4 +27,4 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh15&layout=compact">
   </a>
 </div>
-
+-->
