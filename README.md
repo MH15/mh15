@@ -6,7 +6,7 @@
 
 - :school: I'm studying Computer Science at [OSU](https://osu.edu)
 - :scroll: I specialize in Computer Graphics and visual design
-- 💬 Ask me about photography!
+- 💬 Ask me about programming languages!
 - 📫 How to reach me: [@matthallosu](https://twitter.com/matthallosu) on Twitter
 - 😄 Pronouns: he/him
 
